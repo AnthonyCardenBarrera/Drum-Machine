@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Sora:wght@700&display=swap");
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: blue;
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Sora", sans-serif;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.display {
+  background-color: white;
+  border-radius: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  width: 400px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+.drum-pad {
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+  background-color: lime;
+  border: 2px solid black;
+  border-radius: 50px;
+  font-size: 60px;
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.display h1 {
+  display: block;
+  width: 100%;
+}
