@@ -1,6 +1,6 @@
 # Drum-Machine
 
-![](drum-machine.gif)
+![](drum-machine.gif.gif)
 
 ## What I created
 
