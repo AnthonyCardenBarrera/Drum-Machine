@@ -11,4 +11,3 @@ This is a react drum machine. The purpose of this app is was to test my knowledg
 * How to use React components.
 * How to follow documentation.
 * Learn how to play audio sounds.
-
